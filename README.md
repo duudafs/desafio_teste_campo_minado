@@ -5,10 +5,9 @@ Casos de teste em **JavaScript (Jest)** para o **Campo Minado com tabuleiro 18 x
 ## Colaboradores
 
 - NOME: MARIA EDUARDA FURLAN SCOMPARIN
-RA: 24021296-2
-GitHub: https://github.com/duudafs
+- RA: 24021296-2
+- GitHub: https://github.com/duudafs
 
-Desafio proposto por: Laura.
 
 ## Especificação do desafio
 
