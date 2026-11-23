@@ -16,7 +16,7 @@ Casos de teste em **JavaScript (Jest)** para o **Campo Minado com tabuleiro 18 x
 
 O tabuleiro tem **18 colunas por 14 linhas** (252 casas). As linhas vão de 0 a 13 e as colunas de 0 a 17. Com 40 bombas, sobram **212 casas seguras**.
 
-## Regras de negócio (RN)
+## Regras (RN)
 
 | RN | Regra | Descrição | Casos de teste |
 |---|---|---|---|
